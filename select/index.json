@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "17さいのうた。",
+  "base_artist": "『ユイカ』",
+  "createdAt": "2026-03-24T16:35:59.784923Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "17さいのうた。",
+      "artist": "『ユイカ』",
+      "has_synced": true,
+      "path": "select/01_17さいのうた。_『ユイカ』.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "17さいのうた。",
+      "artist": "『ユイカ』",
+      "has_synced": false,
+      "path": "select/pl_01_17さいのうた。_『ユイカ』.txt"
+    }
+  ]
+}
